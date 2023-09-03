@@ -1,10 +1,10 @@
 // create a maths que
 // maths question will have a random generated
-// question type multiplication questioj wuth random number range 1-10
+// question type multiplication question with random number range 1-10
 // answer will be the product of the random number range and the random number 
 // user will have to answer the que
 //on submit answer answer will be compared with the random generated answer
-// if hte answer willl be correct than the score will be increment
+// if  answer will be correct than the score will be increment
 //if the answer will be wrong than the score will be decremented
 
 const questionE1=document.getElementById("question");
